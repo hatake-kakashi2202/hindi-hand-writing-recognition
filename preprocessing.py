@@ -23,7 +23,7 @@ y_train=Y[0:70000, :]
 y_train=y_train.T
 y_test=Y[70000:72000, :]
 y_test=y_test.T
-
+//normalization
 image_x=32
 image_y=32
 
